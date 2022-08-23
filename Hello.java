@@ -2,7 +2,7 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-	for (int i = 0; i < 91; i++) 
+	for (int i = 0; i < 911; i++) 
 {
   System.out.println("Hello, World! M" + i); 
 }
